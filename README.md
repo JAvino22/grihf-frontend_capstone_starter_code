@@ -11,3 +11,14 @@ Welcome to the Medical Appointment Booking System! This project aims to simplify
 - **Search Functionality**: Quickly find available time slots and doctors.
 
 ## Installation
+
+To get started with the Medical Appointment Booking System, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/medical-appointment-booking.git
+   cd medical-appointment-booking
+2. npm install
+3. npm run setup
+4. 4npm start
+5. 
